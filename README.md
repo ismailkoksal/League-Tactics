@@ -1,6 +1,8 @@
 # league_tactics
 
-A new Flutter project.
+![Draven](https://i.imgur.com/VqSXS8u.png)
+
+A new Flutter project to help gamers on Teamfight Tactics.
 
 ## Getting Started
 
